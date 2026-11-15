@@ -37,15 +37,15 @@ The project monitors runway availability, detects incoming aircraft, and support
 
 ### Runway Free
 
-runway-free.png
+images/runway-free.png
 
 ### Aircraft Landing
 
-aircraft-landing.png
+images/aircraft-landing.png
 
 ### Emergency Landing
 
-emergency-mode.png
+images/emergency-mode.png
 
 ## Applications
 
